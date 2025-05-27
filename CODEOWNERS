@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @chad-p
+/src/backend/database.py      @chad-p
+/src/backend/routers/auth.py  @chad-p
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @chad-p
